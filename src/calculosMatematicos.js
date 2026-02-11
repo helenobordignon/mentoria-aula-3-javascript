@@ -2,3 +2,7 @@
 export function calcularMedia(n1, n2) {
     return (n1 + n2) / 2;
 }
+
+export function somarDoisNumeros(n1, n2) {
+    return n1 + n2;
+}
